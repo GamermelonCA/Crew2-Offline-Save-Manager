@@ -1,0 +1,14 @@
+<Config>
+	<FirstLaunch>1</FirstLaunch>
+	<Crew2Folder></Crew2Folder>
+	<Crew2EXE></Crew2EXE>
+	<SaveData>
+		<ActiveSave></ActiveSave>
+		<Save name="">
+			<LastPlayed></LastPlayed>
+		</Save>
+		<Save name="">
+			<LastPlayed></LastPlayed>
+		</Save>
+	</SaveData>
+</Config>
